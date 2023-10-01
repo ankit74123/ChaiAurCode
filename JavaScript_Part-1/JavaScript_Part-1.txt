@@ -1,0 +1,7 @@
+JavaScript_Part-1                                                                                                                     #01.10.2023(Sunday)
+=================
+
+  js-hindi
+
+  test.js
+  Node JS is used to execute JavaScript files.
