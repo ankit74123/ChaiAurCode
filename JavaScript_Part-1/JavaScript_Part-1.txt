@@ -1,7 +1,23 @@
 JavaScript_Part-1                                                                                                                     #01.10.2023(Sunday)
 =================
 
-  js-hindi
+  js-hindi(Folder)
+  Setting Up Environment
+  -----------------------
 
   test.js
   Node JS is used to execute JavaScript files.
+  Download Visual Studio Code
+
+===== 
+
+  Save and work on GitHub
+  -----------------------
+  Node.js and JavaScript
+  Rebuild Now
+
+
+=====
+
+  Let Const Var
+  -------------
